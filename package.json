@@ -1,0 +1,21 @@
+{
+  "name": "dune-light-theme",
+  "displayName": "dune light theme",
+  "description": "Brackets' relaxing light Dune theme 2 VSCode porting",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dune",
+        "uiTheme": "vs",
+        "path": "./themes/Dune-color-theme.json"
+      }
+    ]
+  }
+}
