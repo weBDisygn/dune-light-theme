@@ -1,16 +1,16 @@
-# dune-light-theme README
+# Dune light theme (VSCode Theme) README
 
-## Working with Markdown
+## About This Theme
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+Dune theme 4 Brackets 2 VSCode porting tryout. Based on main and basic colors of the Dune light theme, a relaxing and easy on eyes one originally made for [Brackets editor](https://github.com/Brackets-Themes/Dune) | [larz0](https://github.com/larz0).
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## Credits
 
-## For more information
+1. Dune theme for Brackets editor: [https://github.com/Brackets-Themes/Dune](https://github.com/Brackets-Themes/Dune)
+2. Larz | larz0: [https://github.com/larz0](https://github.com/larz0)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Additional Information
+
+It should work better with little "Zoom In" / one level up turned on. 🙂
 
 **Enjoy!**
